@@ -1,0 +1,20 @@
+## Name:Square
+## Icon:0
+# Points Count  Value
+5 1.
+# X pos Y pos
+0 10000
+100000 10000
+100000 20000
+0 20000
+0 10000
+
+
+#from ExportTools import *
+#SaveEvol(md, 'All')
+#import numpy as np
+#np_load_old = np.load
+#np.load = lambda *a,**k: np_load_old(*a, allow_pickle=True, **k)
+#mdnp=np.load('../Results/Toms_Model.npy')
+#import scipy.io as io
+#io.savemat('Toms_Model.mat', mdnp)
